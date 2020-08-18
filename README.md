@@ -3,6 +3,11 @@
 * Call function only once, then ignore.
 * Or call function several times and only then ignore.
 
+# Install
+```
+npm install --save AldieNightStar/node_once
+```
+
 # Import
 ```js
 const Once = require("once");
