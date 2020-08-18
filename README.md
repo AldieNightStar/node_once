@@ -5,7 +5,7 @@
 
 # Import
 ```js
-const Once = require("node_once");
+const Once = require("once");
 ```
 
 # `Once.once(func)`
